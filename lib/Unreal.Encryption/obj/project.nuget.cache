@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "L2hGHfbyCwY=",
+  "success": true,
+  "projectFilePath": "D:\\github\\Improved-Fortnite-Chest-Counter\\Fortnite-ChestCounter-1.3.0\\Improved Fortnite Chest Counter\\lib\\Unreal.Encryption\\Unreal.Encryption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.14\\microsoft.net.illink.tasks.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.14\\microsoft.netcore.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.14\\microsoft.aspnetcore.app.runtime.win-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

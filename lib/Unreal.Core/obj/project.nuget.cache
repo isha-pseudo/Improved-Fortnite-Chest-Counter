@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dvv6rOS+kzI=",
+  "success": true,
+  "projectFilePath": "D:\\github\\Improved-Fortnite-Chest-Counter\\Fortnite-ChestCounter-1.3.0\\Improved Fortnite Chest Counter\\lib\\Unreal.Core\\Unreal.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.0\\microsoft.extensions.logging.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.14\\microsoft.net.illink.tasks.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.14\\microsoft.netcore.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.14.nupkg.sha512",
+    "C:\\Users\\shoul\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.14\\microsoft.aspnetcore.app.runtime.win-x64.10.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

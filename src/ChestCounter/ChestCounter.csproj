@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <!-- Windows app: the standby process has no window; the tool opens its own console (NativeConsole). -->
+    <OutputType>WinExe</OutputType>
+    <AssemblyName>ChestCounter</AssemblyName>
+    <RootNamespace>ChestCounter</RootNamespace>
+    <Version>1.3.0</Version>
+    <InvariantGlobalization>false</InvariantGlobalization>
+    <!-- Single-file publish: the parser discovers its types by reflection, so no trimming. -->
+    <PublishTrimmed>false</PublishTrimmed>
+    <!-- Small idle footprint: workstation, non-concurrent GC (no background GC thread) and a GC that gives memory back. -->
+    <ServerGarbageCollection>false</ServerGarbageCollection>
+    <ConcurrentGarbageCollection>false</ConcurrentGarbageCollection>
+    <TieredPGO>true</TieredPGO>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\lib\FortniteReplayReader\FortniteReplayReader.csproj" />
+    <PackageReference Include="System.Drawing.Common" Version="9.0.0" />
+  </ItemGroup>
+</Project>

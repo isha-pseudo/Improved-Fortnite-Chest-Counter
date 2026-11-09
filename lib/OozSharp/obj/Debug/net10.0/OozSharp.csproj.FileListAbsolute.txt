@@ -1,0 +1,11 @@
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/bin/Debug/net10.0/OozSharp.deps.json
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/bin/Debug/net10.0/OozSharp.dll
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/bin/Debug/net10.0/OozSharp.pdb
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.GeneratedMSBuildEditorConfig.editorconfig
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.AssemblyInfoInputs.cache
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.AssemblyInfo.cs
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.csproj.CoreCompileInputs.cache
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.dll
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/refint/OozSharp.dll
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/OozSharp.pdb
+/tmp/chestcounter/Fortnite-ChestCounter-1.3.0/lib/OozSharp/obj/Debug/net10.0/ref/OozSharp.dll
